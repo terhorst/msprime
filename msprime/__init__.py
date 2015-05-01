@@ -26,3 +26,4 @@ from __future__ import division
 __version__ = '0.1.1a1'
 
 from msprime.trees import *
+from msprime.ibd import *
