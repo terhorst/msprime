@@ -1,4 +1,4 @@
-language: python
+language: c
 python:
   - "2.7"
   - "2.7_with_system_site_packages"
